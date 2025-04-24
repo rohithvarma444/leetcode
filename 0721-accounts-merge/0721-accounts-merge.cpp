@@ -1,49 +1,30 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-class Disjoint {
+class DisjointSet {
 public:
-    vector<int> parent, size, rank;
-    
-    Disjoint(int n) {
-        parent.resize(n + 1);
-        rank.resize(n, 0);
-        size.resize(n, 1);
+    vector<int> parent, rank;
 
-        for (int i = 0; i < n; i++) {
-            parent[i] = i;
-        }
+    DisjointSet(int n) {
+        parent.resize(n);
+        rank.resize(n, 0);
+        for(int i = 0; i < n; i++) parent[i] = i;
     }
 
-    int findUPar(int u) {
-        if (parent[u] == u) return u;
-        return parent[u] = findUPar(parent[u]);
+    int findUPar(int n) {
+        if(parent[n] == n) return n;
+        return parent[n] = findUPar(parent[n]);
     }
 
     void unionByRank(int u, int v) {
-        int upU = findUPar(u);
-        int upV = findUPar(v);
-        if (upU == upV) return;
-        if (rank[upU] < rank[upV]) {
-            parent[upU] = upV;
-        } else if (rank[upV] < rank[upU]) {
-            parent[upV] = upU;
-        } else {
-            parent[upV] = upU;
-            rank[upU]++;
-        }
-    }
+        int pu = findUPar(u);
+        int pv = findUPar(v);
+        if(pu == pv) return;
 
-    void unionBySize(int u, int v) {
-        int upU = findUPar(u);
-        int upV = findUPar(v);
-        if (upU == upV) return;
-        if (size[upU] < size[upV]) {
-            parent[upU] = upV;
-            size[upV] += size[upU];
+        if(rank[pu] < rank[pv]) {
+            parent[pu] = pv;
+        } else if(rank[pv] < rank[pu]) {
+            parent[pv] = pu;
         } else {
-            parent[upV] = upU;
-            size[upU] += size[upV];
+            parent[pv] = pu;
+            rank[pu]++;
         }
     }
 };
@@ -52,35 +33,31 @@ class Solution {
 public:
     vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
         int n = accounts.size();
-        Disjoint ds(n);
-        map<string, int> mpp; 
+        DisjointSet ds(n);
+        unordered_map<string, int> emailToAcc;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 1; j < accounts[i].size(); j++) {
+        for(int i = 0; i < n; i++) {
+            for(int j = 1; j < accounts[i].size(); j++) {
                 string email = accounts[i][j];
-                if (mpp.find(email) == mpp.end()) {
-                    mpp[email] = i;
+                if(emailToAcc.find(email) == emailToAcc.end()) {
+                    emailToAcc[email] = i;
                 } else {
-                    ds.unionByRank(i, mpp[email]);
+                    ds.unionByRank(i, emailToAcc[email]);
                 }
             }
         }
 
-        vector<vector<string>> mergedMail(n);
-        for (auto it : mpp) {
-            string email = it.first;
-            int node = ds.findUPar(it.second);
-            mergedMail[node].push_back(email);
+        unordered_map<int, vector<string>> mergedEmails;
+        for(auto& [email, idx] : emailToAcc) {
+            int parent = ds.findUPar(idx);
+            mergedEmails[parent].push_back(email);
         }
 
         vector<vector<string>> ans;
-        for (int i = 0; i < n; i++) {
-            if (mergedMail[i].empty()) continue;
-            sort(mergedMail[i].begin(), mergedMail[i].end());  
-            vector<string> temp;
-            temp.push_back(accounts[i][0]); 
-            temp.insert(temp.end(), mergedMail[i].begin(), mergedMail[i].end());
-            ans.push_back(temp);
+        for(auto& [idx, emails] : mergedEmails) {
+            sort(emails.begin(), emails.end());
+            emails.insert(emails.begin(), accounts[idx][0]); 
+            ans.push_back(emails);
         }
 
         return ans;
