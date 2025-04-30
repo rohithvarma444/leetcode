@@ -18,11 +18,13 @@
 | ------- |
 | [0127-word-ladder](https://github.com/rohithvarma444/leetcode/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
+| [0744-network-delay-time](https://github.com/rohithvarma444/leetcode/tree/master/0744-network-delay-time) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rohithvarma444/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
+| [0744-network-delay-time](https://github.com/rohithvarma444/leetcode/tree/master/0744-network-delay-time) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohithvarma444/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rohithvarma444/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Union Find
@@ -34,6 +36,7 @@
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/rohithvarma444/leetcode/tree/master/0744-network-delay-time) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohithvarma444/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rohithvarma444/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Array
@@ -62,4 +65,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rohithvarma444/leetcode/tree/master/0070-climbing-stairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/rohithvarma444/leetcode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/rohithvarma444/leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
