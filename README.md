@@ -45,6 +45,7 @@
 | [0063-unique-paths-ii](https://github.com/rohithvarma444/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/rohithvarma444/leetcode/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/rohithvarma444/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
 | [0967-minimum-falling-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Sorting
@@ -68,6 +69,7 @@
 | [0064-minimum-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rohithvarma444/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/rohithvarma444/leetcode/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/rohithvarma444/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Memoization
 |  |
