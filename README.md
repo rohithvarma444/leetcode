@@ -27,6 +27,7 @@
 | [0127-word-ladder](https://github.com/rohithvarma444/leetcode/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/rohithvarma444/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/rohithvarma444/leetcode/tree/master/0322-coin-change) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/rohithvarma444/leetcode/tree/master/0744-network-delay-time) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rohithvarma444/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -39,6 +40,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/rohithvarma444/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/rohithvarma444/leetcode/tree/master/0744-network-delay-time) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohithvarma444/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -173,6 +175,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/rohithvarma444/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -183,6 +186,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/rohithvarma444/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
