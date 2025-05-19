@@ -9,13 +9,6 @@ public:
             if( i != correctPos && nums[i] != nums[correctPos]) swap(nums[i],nums[correctPos]);
             else i++;
         }
-
-        for(auto it: nums){
-            cout << it << " ";
-        }
-
-        
-
         for(int i = 0; i < n; i++){
             if(nums[i] != i+1) return {nums[i],i+1};
         }
