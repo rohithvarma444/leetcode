@@ -6,7 +6,7 @@ public:
         while(i < n){
             int correctPos = nums[i]-1;
 
-            if( i != correctPos && nums[correctPos] != correctPos + 1) swap(nums[i],nums[correctPos]);
+            if( i != correctPos && nums[i] != nums[correctPos]) swap(nums[i],nums[correctPos]);
             else i++;
         }
 
