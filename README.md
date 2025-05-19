@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohithvarma444/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/rohithvarma444/leetcode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohithvarma444/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/rohithvarma444/leetcode/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/rohithvarma444/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -67,6 +68,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/rohithvarma444/leetcode/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/rohithvarma444/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohithvarma444/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
