@@ -53,6 +53,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohithvarma444/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rohithvarma444/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rohithvarma444/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rohithvarma444/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 | [0268-missing-number](https://github.com/rohithvarma444/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rohithvarma444/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rohithvarma444/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,6 +204,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -216,6 +220,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -238,4 +243,5 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
