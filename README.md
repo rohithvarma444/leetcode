@@ -197,6 +197,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohithvarma444/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rohithvarma444/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/rohithvarma444/leetcode/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -267,4 +268,8 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rohithvarma444/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
