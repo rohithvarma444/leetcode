@@ -100,6 +100,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rohithvarma444/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rohithvarma444/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2227-sum-of-subarray-ranges](https://github.com/rohithvarma444/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Sorting
 |  |
@@ -207,6 +208,7 @@
 | [0155-min-stack](https://github.com/rohithvarma444/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/rohithvarma444/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/rohithvarma444/leetcode/tree/master/0735-asteroid-collision) |
+| [2227-sum-of-subarray-ranges](https://github.com/rohithvarma444/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rohithvarma444/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rohithvarma444/leetcode/tree/master/0496-next-greater-element-i) |
+| [2227-sum-of-subarray-ranges](https://github.com/rohithvarma444/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
