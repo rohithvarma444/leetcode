@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/rohithvarma444/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/rohithvarma444/leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/rohithvarma444/leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rohithvarma444/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
@@ -89,6 +90,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/rohithvarma444/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/rohithvarma444/leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/rohithvarma444/leetcode/tree/master/0645-set-mismatch) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rohithvarma444/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
@@ -198,6 +200,7 @@
 | [0020-valid-parentheses](https://github.com/rohithvarma444/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rohithvarma444/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/rohithvarma444/leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/rohithvarma444/leetcode/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -272,4 +275,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rohithvarma444/leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/rohithvarma444/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
