@@ -117,6 +117,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/rohithvarma444/leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/rohithvarma444/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rohithvarma444/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/rohithvarma444/leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/rohithvarma444/leetcode/tree/master/0645-set-mismatch) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohithvarma444/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/rohithvarma444/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rohithvarma444/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/rohithvarma444/leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/rohithvarma444/leetcode/tree/master/0621-task-scheduler) |
@@ -203,6 +205,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rohithvarma444/leetcode/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/rohithvarma444/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0295-find-median-from-data-stream](https://github.com/rohithvarma444/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rohithvarma444/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rohithvarma444/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rohithvarma444/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -312,6 +315,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rohithvarma444/leetcode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/rohithvarma444/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/rohithvarma444/leetcode/tree/master/0355-design-twitter) |
 ## Monotonic Stack
 |  |
@@ -336,4 +340,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rohithvarma444/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/rohithvarma444/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
