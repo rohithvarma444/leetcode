@@ -48,6 +48,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/rohithvarma444/leetcode/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/rohithvarma444/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/rohithvarma444/leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/rohithvarma444/leetcode/tree/master/0922-possible-bipartition) |
@@ -68,6 +69,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/rohithvarma444/leetcode/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/rohithvarma444/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/rohithvarma444/leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/rohithvarma444/leetcode/tree/master/0922-possible-bipartition) |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/rohithvarma444/leetcode/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/rohithvarma444/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/rohithvarma444/leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/rohithvarma444/leetcode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohithvarma444/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -365,4 +368,8 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/rohithvarma444/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/rohithvarma444/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
