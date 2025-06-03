@@ -52,6 +52,7 @@
 | [0871-keys-and-rooms](https://github.com/rohithvarma444/leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/rohithvarma444/leetcode/tree/master/0922-possible-bipartition) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rohithvarma444/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rohithvarma444/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/rohithvarma444/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Depth-First Search
@@ -91,6 +92,7 @@
 | [0871-keys-and-rooms](https://github.com/rohithvarma444/leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/rohithvarma444/leetcode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohithvarma444/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rohithvarma444/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rohithvarma444/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Array
 |  |
@@ -124,6 +126,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rohithvarma444/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/rohithvarma444/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rohithvarma444/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/rohithvarma444/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rohithvarma444/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2227-sum-of-subarray-ranges](https://github.com/rohithvarma444/leetcode/tree/master/2227-sum-of-subarray-ranges) |
