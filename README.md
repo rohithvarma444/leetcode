@@ -36,6 +36,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/rohithvarma444/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
 | [1250-longest-common-subsequence](https://github.com/rohithvarma444/leetcode/tree/master/1250-longest-common-subsequence) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rohithvarma444/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rohithvarma444/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Breadth-First Search
 |  |
@@ -77,6 +78,7 @@
 | [0922-possible-bipartition](https://github.com/rohithvarma444/leetcode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohithvarma444/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rohithvarma444/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rohithvarma444/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Union Find
 |  |
@@ -95,6 +97,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohithvarma444/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rohithvarma444/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rohithvarma444/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rohithvarma444/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Array
 |  |
 | ------- |
@@ -131,6 +134,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/rohithvarma444/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rohithvarma444/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2227-sum-of-subarray-ranges](https://github.com/rohithvarma444/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rohithvarma444/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Sorting
 |  |
@@ -279,6 +283,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rohithvarma444/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -378,4 +383,8 @@
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/rohithvarma444/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+## Topological Sort
+|  |
+| ------- |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rohithvarma444/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 <!---LeetCode Topics End-->
