@@ -35,6 +35,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/rohithvarma444/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rohithvarma444/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/rohithvarma444/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/rohithvarma444/leetcode/tree/master/1250-longest-common-subsequence) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rohithvarma444/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rohithvarma444/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -86,6 +87,7 @@
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
 | [0922-possible-bipartition](https://github.com/rohithvarma444/leetcode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohithvarma444/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/rohithvarma444/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rohithvarma444/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
 |  |
