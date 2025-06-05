@@ -58,6 +58,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rohithvarma444/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rohithvarma444/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/rohithvarma444/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2344-escape-the-spreading-fire](https://github.com/rohithvarma444/leetcode/tree/master/2344-escape-the-spreading-fire) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/rohithvarma444/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rohithvarma444/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2227-sum-of-subarray-ranges](https://github.com/rohithvarma444/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2344-escape-the-spreading-fire](https://github.com/rohithvarma444/leetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rohithvarma444/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Sorting
@@ -216,6 +218,7 @@
 | [0064-minimum-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/rohithvarma444/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2344-escape-the-spreading-fire](https://github.com/rohithvarma444/leetcode/tree/master/2344-escape-the-spreading-fire) |
 ## Greedy
 |  |
 | ------- |
@@ -230,6 +233,7 @@
 | [0268-missing-number](https://github.com/rohithvarma444/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rohithvarma444/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rohithvarma444/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2344-escape-the-spreading-fire](https://github.com/rohithvarma444/leetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Two Pointers
 |  |
