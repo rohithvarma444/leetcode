@@ -25,6 +25,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohithvarma444/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rohithvarma444/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/rohithvarma444/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rohithvarma444/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/rohithvarma444/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/rohithvarma444/leetcode/tree/master/1250-longest-common-subsequence) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rohithvarma444/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rohithvarma444/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rohithvarma444/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Breadth-First Search
 |  |
@@ -228,6 +230,7 @@
 | [0621-task-scheduler](https://github.com/rohithvarma444/leetcode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rohithvarma444/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/rohithvarma444/leetcode/tree/master/0876-hand-of-straights) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rohithvarma444/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -272,6 +275,7 @@
 | [0496-next-greater-element-i](https://github.com/rohithvarma444/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/rohithvarma444/leetcode/tree/master/0735-asteroid-collision) |
 | [2227-sum-of-subarray-ranges](https://github.com/rohithvarma444/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rohithvarma444/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Tree
 |  |
 | ------- |
