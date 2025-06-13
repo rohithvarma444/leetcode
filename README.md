@@ -147,6 +147,7 @@
 | [2344-escape-the-spreading-fire](https://github.com/rohithvarma444/leetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rohithvarma444/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/rohithvarma444/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -238,6 +239,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rohithvarma444/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/rohithvarma444/leetcode/tree/master/0876-hand-of-straights) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rohithvarma444/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/rohithvarma444/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/rohithvarma444/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search
 |  |
@@ -248,6 +250,7 @@
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rohithvarma444/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2344-escape-the-spreading-fire](https://github.com/rohithvarma444/leetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/rohithvarma444/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Two Pointers
 |  |
 | ------- |
