@@ -25,6 +25,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohithvarma444/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rohithvarma444/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/rohithvarma444/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/rohithvarma444/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rohithvarma444/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/rohithvarma444/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## String
@@ -145,6 +146,7 @@
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rohithvarma444/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2227-sum-of-subarray-ranges](https://github.com/rohithvarma444/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2344-escape-the-spreading-fire](https://github.com/rohithvarma444/leetcode/tree/master/2344-escape-the-spreading-fire) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/rohithvarma444/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rohithvarma444/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/rohithvarma444/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -239,6 +241,7 @@
 | [0621-task-scheduler](https://github.com/rohithvarma444/leetcode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rohithvarma444/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/rohithvarma444/leetcode/tree/master/0876-hand-of-straights) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/rohithvarma444/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rohithvarma444/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/rohithvarma444/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/rohithvarma444/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -354,6 +357,7 @@
 | [0347-top-k-frequent-elements](https://github.com/rohithvarma444/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/rohithvarma444/leetcode/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rohithvarma444/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/rohithvarma444/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Divide and Conquer
 |  |
 | ------- |
