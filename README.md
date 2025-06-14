@@ -175,6 +175,7 @@
 | [0066-plus-one](https://github.com/rohithvarma444/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/rohithvarma444/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/rohithvarma444/leetcode/tree/master/0268-missing-number) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/rohithvarma444/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/rohithvarma444/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Dynamic Programming
 |  |
@@ -239,6 +240,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rohithvarma444/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/rohithvarma444/leetcode/tree/master/0876-hand-of-straights) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rohithvarma444/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/rohithvarma444/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/rohithvarma444/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/rohithvarma444/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search
