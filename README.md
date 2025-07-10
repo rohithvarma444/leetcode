@@ -132,6 +132,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rohithvarma444/leetcode/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rohithvarma444/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/rohithvarma444/leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/rohithvarma444/leetcode/tree/master/0645-set-mismatch) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rohithvarma444/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -254,6 +255,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/rohithvarma444/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/rohithvarma444/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rohithvarma444/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rohithvarma444/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rohithvarma444/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2344-escape-the-spreading-fire](https://github.com/rohithvarma444/leetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
