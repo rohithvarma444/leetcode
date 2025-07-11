@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohithvarma444/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rohithvarma444/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/rohithvarma444/leetcode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohithvarma444/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/rohithvarma444/leetcode/tree/master/0127-word-ladder) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohithvarma444/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rohithvarma444/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rohithvarma444/leetcode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/rohithvarma444/leetcode/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/rohithvarma444/leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -177,6 +179,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rohithvarma444/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rohithvarma444/leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/rohithvarma444/leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/rohithvarma444/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rohithvarma444/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/rohithvarma444/leetcode/tree/master/0070-climbing-stairs) |
