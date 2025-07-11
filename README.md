@@ -39,6 +39,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/rohithvarma444/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/rohithvarma444/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1078-remove-outermost-parentheses](https://github.com/rohithvarma444/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/rohithvarma444/leetcode/tree/master/1250-longest-common-subsequence) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rohithvarma444/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rohithvarma444/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -294,6 +295,7 @@
 | [0155-min-stack](https://github.com/rohithvarma444/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/rohithvarma444/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/rohithvarma444/leetcode/tree/master/0735-asteroid-collision) |
+| [1078-remove-outermost-parentheses](https://github.com/rohithvarma444/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/rohithvarma444/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rohithvarma444/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/rohithvarma444/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
