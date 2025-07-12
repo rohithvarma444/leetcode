@@ -38,6 +38,7 @@
 | [0020-valid-parentheses](https://github.com/rohithvarma444/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rohithvarma444/leetcode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/rohithvarma444/leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/rohithvarma444/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0433-minimum-genetic-mutation](https://github.com/rohithvarma444/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/rohithvarma444/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rohithvarma444/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -202,6 +203,7 @@
 | [0070-climbing-stairs](https://github.com/rohithvarma444/leetcode/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rohithvarma444/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/rohithvarma444/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rohithvarma444/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/rohithvarma444/leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/rohithvarma444/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -442,6 +444,7 @@
 | [0040-combination-sum-ii](https://github.com/rohithvarma444/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/rohithvarma444/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rohithvarma444/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/rohithvarma444/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0813-all-paths-from-source-to-target](https://github.com/rohithvarma444/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
