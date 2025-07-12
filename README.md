@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/rohithvarma444/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rohithvarma444/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/rohithvarma444/leetcode/tree/master/0355-design-twitter) |
+| [0424-longest-repeating-character-replacement](https://github.com/rohithvarma444/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/rohithvarma444/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -39,6 +40,7 @@
 | [0022-generate-parentheses](https://github.com/rohithvarma444/leetcode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/rohithvarma444/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/rohithvarma444/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0424-longest-repeating-character-replacement](https://github.com/rohithvarma444/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/rohithvarma444/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/rohithvarma444/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rohithvarma444/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohithvarma444/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/rohithvarma444/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/rohithvarma444/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rohithvarma444/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Math
