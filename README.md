@@ -36,6 +36,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohithvarma444/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rohithvarma444/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rohithvarma444/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rohithvarma444/leetcode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/rohithvarma444/leetcode/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/rohithvarma444/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/rohithvarma444/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -190,6 +191,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rohithvarma444/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rohithvarma444/leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/rohithvarma444/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rohithvarma444/leetcode/tree/master/0063-unique-paths-ii) |
@@ -431,6 +433,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rohithvarma444/leetcode/tree/master/0022-generate-parentheses) |
 | [0813-all-paths-from-source-to-target](https://github.com/rohithvarma444/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
