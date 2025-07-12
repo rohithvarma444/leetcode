@@ -189,6 +189,7 @@
 | [0062-unique-paths](https://github.com/rohithvarma444/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rohithvarma444/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/rohithvarma444/leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/rohithvarma444/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rohithvarma444/leetcode/tree/master/0268-missing-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/rohithvarma444/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/rohithvarma444/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -291,6 +292,7 @@
 | [0078-subsets](https://github.com/rohithvarma444/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rohithvarma444/leetcode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/rohithvarma444/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/rohithvarma444/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rohithvarma444/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/rohithvarma444/leetcode/tree/master/0645-set-mismatch) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rohithvarma444/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -375,6 +377,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rohithvarma444/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/rohithvarma444/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/rohithvarma444/leetcode/tree/master/0231-power-of-two) |
 ## Counting
 |  |
 | ------- |
