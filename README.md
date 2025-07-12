@@ -156,6 +156,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/rohithvarma444/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/rohithvarma444/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rohithvarma444/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rohithvarma444/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/rohithvarma444/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rohithvarma444/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2227-sum-of-subarray-ranges](https://github.com/rohithvarma444/leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -183,6 +184,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/rohithvarma444/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/rohithvarma444/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rohithvarma444/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rohithvarma444/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
 | ------- |
@@ -460,4 +462,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/rohithvarma444/leetcode/tree/master/0812-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rohithvarma444/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
