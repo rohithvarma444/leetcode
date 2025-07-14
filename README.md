@@ -153,6 +153,7 @@
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/rohithvarma444/leetcode/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/rohithvarma444/leetcode/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/rohithvarma444/leetcode/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/rohithvarma444/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rohithvarma444/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -265,6 +266,7 @@
 | [0621-task-scheduler](https://github.com/rohithvarma444/leetcode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rohithvarma444/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/rohithvarma444/leetcode/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/rohithvarma444/leetcode/tree/master/0890-lemonade-change) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/rohithvarma444/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rohithvarma444/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/rohithvarma444/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
