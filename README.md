@@ -10,6 +10,7 @@
 | [0127-word-ladder](https://github.com/rohithvarma444/leetcode/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/rohithvarma444/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohithvarma444/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/rohithvarma444/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rohithvarma444/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rohithvarma444/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/rohithvarma444/leetcode/tree/master/0355-design-twitter) |
@@ -136,6 +137,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohithvarma444/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rohithvarma444/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/rohithvarma444/leetcode/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/rohithvarma444/leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rohithvarma444/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/rohithvarma444/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -176,6 +178,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rohithvarma444/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/rohithvarma444/leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/rohithvarma444/leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -406,6 +409,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rohithvarma444/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/rohithvarma444/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/rohithvarma444/leetcode/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rohithvarma444/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -415,6 +419,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohithvarma444/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohithvarma444/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/rohithvarma444/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rohithvarma444/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
