@@ -11,14 +11,16 @@
 class Solution {
 public:
     ListNode* helper(ListNode* head){
-        if(head == nullptr || head->next == nullptr) return head;
+        if(head == nullptr || head->next == nullptr){
+            return head;
+        }
 
         ListNode* newHead = helper(head->next);
 
         ListNode* front = head->next;
         front->next = head;
-
         head->next = nullptr;
+
         return newHead;
     }
     ListNode* reverseList(ListNode* head) {
