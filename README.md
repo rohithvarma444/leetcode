@@ -304,6 +304,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rohithvarma444/leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/rohithvarma444/leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/rohithvarma444/leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/rohithvarma444/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohithvarma444/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -399,6 +400,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rohithvarma444/leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/rohithvarma444/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/rohithvarma444/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rohithvarma444/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rohithvarma444/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohithvarma444/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
