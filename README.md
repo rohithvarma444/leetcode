@@ -27,6 +27,7 @@
 | [0876-hand-of-straights](https://github.com/rohithvarma444/leetcode/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/rohithvarma444/leetcode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/rohithvarma444/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohithvarma444/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rohithvarma444/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/rohithvarma444/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -167,6 +168,7 @@
 | [0890-lemonade-change](https://github.com/rohithvarma444/leetcode/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/rohithvarma444/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/rohithvarma444/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rohithvarma444/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/rohithvarma444/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -203,6 +205,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohithvarma444/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohithvarma444/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/rohithvarma444/leetcode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/rohithvarma444/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rohithvarma444/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rohithvarma444/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Math
@@ -514,6 +517,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/rohithvarma444/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rohithvarma444/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Radix Sort
 |  |
