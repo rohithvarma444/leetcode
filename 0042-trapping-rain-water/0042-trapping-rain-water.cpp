@@ -1,24 +1,31 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int n = height.size();
-        int waterTrapped = 0;
-        stack<int> st;
+         int n = height.size();
+        vector<int> prefixMax(n);
+        vector<int> suffixMax(n);
 
-        for (int i = 0; i < n; i++) {
-            while (!st.empty() && height[i] > height[st.top()]) {
-                int top = st.top();
-                st.pop();
+       
+        int currMax = height[0];
 
-                if (st.empty()) break;
-
-                int distance = i - st.top() - 1;
-                int boundedHeight = min(height[i], height[st.top()]) - height[top];
-                waterTrapped += distance * boundedHeight;
-            }
-            st.push(i);
+        for(int i = 0; i < n; i++){
+            currMax = max(currMax,height[i]);
+            prefixMax[i] = currMax;
         }
 
-        return waterTrapped;
+        currMax = height[n-1];
+        for(int i = n-1; i >= 0; i--){
+            currMax = max(currMax,height[i]);
+            suffixMax[i] = currMax;
+        }
+
+        int totalWater = 0;
+
+        for(int i = 0; i < n; i++){
+            int currWater = min(prefixMax[i],suffixMax[i]) - height[i];
+            if(currWater > 0) totalWater += currWater;
+        }
+
+        return totalWater;
     }
 };
