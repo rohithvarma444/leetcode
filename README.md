@@ -67,6 +67,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/rohithvarma444/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/rohithvarma444/leetcode/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/rohithvarma444/leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0547-number-of-provinces](https://github.com/rohithvarma444/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rohithvarma444/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
@@ -93,6 +94,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/rohithvarma444/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/rohithvarma444/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rohithvarma444/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
@@ -108,6 +110,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/rohithvarma444/leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
 | [0922-possible-bipartition](https://github.com/rohithvarma444/leetcode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohithvarma444/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -116,6 +119,7 @@
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/rohithvarma444/leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/rohithvarma444/leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/rohithvarma444/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/rohithvarma444/leetcode/tree/master/0871-keys-and-rooms) |
