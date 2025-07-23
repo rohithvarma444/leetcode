@@ -1,65 +1,87 @@
-class DisjointSet {
-public:
-    vector<int> parent, rank;
+class DisjointSet{
+    public:
+      vector<int> parent;
+      vector<int> rank;
+      vector<int> size;
 
-    DisjointSet(int n) {
+      DisjointSet(int n){
         parent.resize(n);
-        rank.resize(n, 0);
-        for(int i = 0; i < n; i++) parent[i] = i;
-    }
+        rank.resize(n,0);
+        size.resize(n,1);
 
-    int findUPar(int n) {
-        if(parent[n] == n) return n;
-        return parent[n] = findUPar(parent[n]);
-    }
+        for(int i = 0; i < n; i++){
+            parent[i] = i;
+        }
+      }
 
-    void unionByRank(int u, int v) {
+      int findUPar(int u){
+        return (u == parent[u])? u: parent[u] = findUPar(parent[u]);
+      }
+
+      void unionByRank(int u,int v){
         int pu = findUPar(u);
         int pv = findUPar(v);
+
         if(pu == pv) return;
 
-        if(rank[pu] < rank[pv]) {
+        if(rank[pu] < rank[pv]){
             parent[pu] = pv;
-        } else if(rank[pv] < rank[pu]) {
-            parent[pv] = pu;
-        } else {
-            parent[pv] = pu;
-            rank[pu]++;
         }
-    }
+        else if(rank[pv] < rank[pu]){
+            parent[pv] = pu;
+        }
+        else{
+            parent[pu] = pv;
+            rank[pv]++;
+        }
+      }
 };
 
 class Solution {
 public:
     vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
-        int n = accounts.size();
-        DisjointSet ds(n);
-        unordered_map<string, int> emailToAcc;
-
-        for(int i = 0; i < n; i++) {
-            for(int j = 1; j < accounts[i].size(); j++) {
-                string email = accounts[i][j];
-                if(emailToAcc.find(email) == emailToAcc.end()) {
-                    emailToAcc[email] = i;
-                } else {
-                    ds.unionByRank(i, emailToAcc[email]);
+        map<string,int> mpp;
+        DisjointSet ds(accounts.size());
+        
+        for(int i = 0; i < accounts.size(); i++){
+            for(int j = 1; j < accounts[i].size(); j++){
+                
+                if(mpp.find(accounts[i][j]) != mpp.end()){
+                    if(ds.findUPar(mpp[accounts[i][j]]) != ds.findUPar(i)){
+                        ds.unionByRank(mpp[accounts[i][j]], i);
+                    }
+                }
+                else {
+                    mpp[accounts[i][j]] = i;
                 }
             }
         }
 
-        unordered_map<int, vector<string>> mergedEmails;
-        for(auto& [email, idx] : emailToAcc) {
-            int parent = ds.findUPar(idx);
-            mergedEmails[parent].push_back(email);
+        map<int, vector<string>> mergedEmails;
+        for(auto& it : mpp){
+            string email = it.first;
+            int node = it.second;
+            int rootParent = ds.findUPar(node);
+            mergedEmails[rootParent].push_back(email);
         }
-
+        
         vector<vector<string>> ans;
-        for(auto& [idx, emails] : mergedEmails) {
+        for(auto& it : mergedEmails){
+            int rootNode = it.first;
+            vector<string>& emails = it.second;
+            
             sort(emails.begin(), emails.end());
-            emails.insert(emails.begin(), accounts[idx][0]); 
-            ans.push_back(emails);
+            
+            vector<string> temp;
+            temp.push_back(accounts[rootNode][0]); 
+            
+            for(string& email : emails){
+                temp.push_back(email);
+            }
+            
+            ans.push_back(temp);
         }
-
+        
         return ans;
     }
 };
