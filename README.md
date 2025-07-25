@@ -29,6 +29,7 @@
 | [0940-fruit-into-baskets](https://github.com/rohithvarma444/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rohithvarma444/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohithvarma444/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rohithvarma444/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/rohithvarma444/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/rohithvarma444/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -80,6 +81,7 @@
 | [0871-keys-and-rooms](https://github.com/rohithvarma444/leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/rohithvarma444/leetcode/tree/master/0922-possible-bipartition) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rohithvarma444/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rohithvarma444/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/rohithvarma444/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -112,6 +114,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/rohithvarma444/leetcode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rohithvarma444/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rohithvarma444/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rohithvarma444/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -217,6 +220,7 @@
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/rohithvarma444/leetcode/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0948-sort-an-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/rohithvarma444/leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Sliding Window
 |  |
@@ -401,6 +405,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rohithvarma444/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
@@ -425,6 +430,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Linked List
 |  |
