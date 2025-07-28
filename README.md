@@ -45,6 +45,7 @@
 | [0022-generate-parentheses](https://github.com/rohithvarma444/leetcode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/rohithvarma444/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/rohithvarma444/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/rohithvarma444/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohithvarma444/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/rohithvarma444/leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -69,6 +70,7 @@
 | [0130-surrounded-regions](https://github.com/rohithvarma444/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/rohithvarma444/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/rohithvarma444/leetcode/tree/master/0207-course-schedule) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/rohithvarma444/leetcode/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/rohithvarma444/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/rohithvarma444/leetcode/tree/master/0547-number-of-provinces) |
@@ -101,6 +103,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohithvarma444/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/rohithvarma444/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rohithvarma444/leetcode/tree/master/0547-number-of-provinces) |
@@ -401,6 +404,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohithvarma444/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rohithvarma444/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rohithvarma444/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -427,6 +431,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohithvarma444/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rohithvarma444/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rohithvarma444/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -491,6 +496,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/rohithvarma444/leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/rohithvarma444/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/rohithvarma444/leetcode/tree/master/0355-design-twitter) |
 | [0937-online-stock-span](https://github.com/rohithvarma444/leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
