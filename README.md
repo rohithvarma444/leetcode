@@ -214,6 +214,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rohithvarma444/leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/rohithvarma444/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rohithvarma444/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rohithvarma444/leetcode/tree/master/0229-majority-element-ii) |
@@ -347,6 +348,7 @@
 | [0061-rotate-list](https://github.com/rohithvarma444/leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/rohithvarma444/leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/rohithvarma444/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/rohithvarma444/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohithvarma444/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0295-find-median-from-data-stream](https://github.com/rohithvarma444/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rohithvarma444/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -455,6 +457,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rohithvarma444/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rohithvarma444/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rohithvarma444/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/rohithvarma444/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohithvarma444/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rohithvarma444/leetcode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/rohithvarma444/leetcode/tree/master/0355-design-twitter) |
@@ -482,6 +485,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/rohithvarma444/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohithvarma444/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rohithvarma444/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/rohithvarma444/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rohithvarma444/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rohithvarma444/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -527,6 +531,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rohithvarma444/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/rohithvarma444/leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
