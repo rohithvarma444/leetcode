@@ -3,12 +3,19 @@ public:
     int uniquePaths(int m, int n) {
         vector<vector<int>> dp(m, vector<int>(n, 0));
         
-        for(int i = 0; i < m; i++) dp[i][0] = 1;
-        for(int j = 0; j < n; j++) dp[0][j] = 1;
+        dp[0][0] = 1;
         
-        for(int i = 1; i < m; i++){
-            for(int j = 1; j < n; j++){
-                dp[i][j] = dp[i-1][j] + dp[i][j-1];
+        for(int x = 0; x < m; x++) {
+            for(int y = 0; y < n; y++) {
+                if(x == 0 && y == 0) continue; 
+                
+                int up = 0, left = 0;
+                
+                if(x-1 >= 0) up = dp[x-1][y];
+                
+                if(y-1 >= 0) left = dp[x][y-1];
+                
+                dp[x][y] = up + left;
             }
         }
         
