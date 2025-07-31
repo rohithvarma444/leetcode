@@ -1,33 +1,25 @@
 class Solution {
 public:
-    int helper(int idx, vector<int> &coins,vector<vector<int>> &dp,int amount){
-        if(amount == 0) return 0;
-        if(idx == 0 && amount%coins[idx] == 0){
-            return amount/coins[idx];
-        }
-        if(idx == 0) return 1e5;
-        
-        if(dp[idx][amount] != -1) return dp[idx][amount];
-        int take = 1e5;
-        if(coins[idx] <= amount) take = 1 + helper(idx,coins,dp,amount-coins[idx]);
-        int notTake = helper(idx-1,coins,dp,amount);
-
-        return dp[idx][amount] = min(take,notTake);
-    }
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
-        vector<vector<int>> dp(n, vector<int>(amount+1,-1));
-        int ans = helper(n-1,coins,dp,amount);
-
-        if(ans >= 1e5) return -1;
-        return ans;
-
-        for(int i = 0; i < n; i++){
-            dp[i][0] = 1;
+        vector<vector<int>> dp(n, vector<int>(amount+1,1e5));
+        
+        for(int i = 0; i < n; i++) dp[i][0] = 0;
+        
+        for(int i = 0; i <= amount; i++){
+            if( i % coins[0] == 0) dp[0][i] = i/coins[0];
         }
 
-        if(coins[0] <= amount){
+        for(int i = 1; i < n; i++){
+            for(int target = 1; target <= amount; target++){
+                int take = 1e5;
+                if(coins[i] <= target) take = 1 + dp[i][target - coins[i]];
+                int notTake = dp[i-1][target];
 
+                dp[i][target] = min(take,notTake);
+            }
         }
+
+        return (dp[n-1][amount] >= 1e5)? -1: dp[n-1][amount];
     }
 };
