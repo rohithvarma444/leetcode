@@ -1,29 +1,37 @@
 class Solution {
 public:
-    bool helper(vector<int> &nums,int n,vector<vector<int>> &dp,int idx,int target){
-        if(target == 0) return true;
-        if(idx == n) return false;
-
-        if(dp[idx][target] != -1) return dp[idx][target];
-
-        bool take = false;
-        if(nums[idx] <= target){
-            take = helper(nums,n,dp,idx+1,target-nums[idx]);
-        }
-
-       bool notTake = helper(nums,n,dp,idx+1,target);
-
-        return dp[idx][target] = take | notTake;
-    }
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
+        if(n == 1) return false;
+        if(n==2) return nums[0] == nums[1];
+
         int totalSum = 0;
         for(auto it: nums){
             totalSum += it;
         }
 
-        if(totalSum % 2 != 0) return false;
-        vector<vector<int>> dp(n, vector<int>((totalSum/2)+1,-1));
-        return helper(nums,n,dp,0,totalSum/2);
+        if(totalSum%2 != 0) return false;
+
+        vector<vector<bool>> dp(n, vector<bool>((totalSum / 2) + 1, false));
+        for(int i = 0; i < n; i++){
+            dp[i][0] = true;
+        } 
+
+        if (nums[0] <= totalSum / 2){
+            dp[0][nums[0]] = true;
+        }
+
+        for(int i =1; i < n; i++){
+            for(int target = 0; target <= (totalSum/2); target++){
+                bool take = false;
+                if(nums[i] <= target) take = dp[i-1][target-nums[i]];
+                bool notTake = dp[i-1][target];
+
+
+                dp[i][target] = take || notTake;
+            }
+        }
+
+        return dp[n-1][totalSum/2];
     }
 };
