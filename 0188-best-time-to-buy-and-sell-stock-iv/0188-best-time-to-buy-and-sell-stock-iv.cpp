@@ -1,27 +1,25 @@
 class Solution {
 public:
-    int helper(vector<int>& prices, vector<vector<vector<int>>>& dp, int n,
-               int idx, int bought, int k) {
-        if (idx == n || k == 0)
-            return 0;
-        if (dp[idx][bought][k] != -1)
-            return dp[idx][bought][k];
-
-        int buy = 0;
-        int sell = 0;
-        int notBuy = helper(prices, dp, n, idx + 1, bought, k);
-        if (k > 0 && bought == 0) {
-            buy = -prices[idx] + helper(prices, dp, n, idx + 1, 1, k);
-        }
-        if (bought == 1 && k > 0) {
-            sell = prices[idx] + helper(prices, dp, n, idx + 1, 0, k - 1);
-        }
-
-        return dp[idx][bought][k] = max(buy, max(notBuy, sell));
-    }
-    int maxProfit(int k, vector<int>& prices) {
+    int maxProfit(int limit, vector<int>& prices) {
         int n = prices.size();
-        vector<vector<vector<int>>> dp(n, vector<vector<int>>(2, vector<int>(k+1, -1)));
-        return helper(prices,dp,n,0,0,k);
+        vector<vector<vector<int>>> dp(
+            n + 1, vector<vector<int>>(2, vector<int>(limit+1, 0)));
+
+        for (int i = n - 1; i >= 0; i--) {
+            for (int canBuy = 0; canBuy < 2; canBuy++) {
+                for (int k = 1; k <=limit; k++) {
+                    if (canBuy == 1) {
+                        dp[i][canBuy][k] =
+                            max(dp[i + 1][1][k], -prices[i] + dp[i + 1][0][k]);
+                    }
+
+                    else
+                        dp[i][canBuy][k] = max(dp[i + 1][0][k],
+                                               prices[i] + dp[i + 1][1][k - 1]);
+                }
+            }
+        }
+
+        return dp[0][1][limit];
     }
 };
