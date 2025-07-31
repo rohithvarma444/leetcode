@@ -1,25 +1,23 @@
 class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
+        const int INF = 1e5;
         int n = coins.size();
-        vector<vector<int>> dp(n, vector<int>(amount+1,1e5));
-        
-        for(int i = 0; i < n; i++) dp[i][0] = 0;
-        
-        for(int i = 0; i <= amount; i++){
-            if( i % coins[0] == 0) dp[0][i] = i/coins[0];
+        vector<int> prev(amount+1, INF), curr(amount+1, INF);
+        prev[0] = 0;
+        for (int t = 0; t <= amount; t++) {
+            if (t % coins[0] == 0) prev[t] = t / coins[0];
         }
-
-        for(int i = 1; i < n; i++){
-            for(int target = 1; target <= amount; target++){
-                int take = 1e5;
-                if(coins[i] <= target) take = 1 + dp[i][target - coins[i]];
-                int notTake = dp[i-1][target];
-
-                dp[i][target] = min(take,notTake);
+        for (int i = 1; i < n; i++) {
+            curr[0] = 0;
+            for (int t = 1; t <= amount; t++) {
+                int take = INF;
+                if(coins[i] <= t) take = 1 + curr[t - coins[i]];
+                int notTake = prev[t];
+                curr[t] = min(take, notTake);
             }
+            prev = curr;
         }
-
-        return (dp[n-1][amount] >= 1e5)? -1: dp[n-1][amount];
+        return (prev[amount] >= INF) ? -1 : prev[amount];
     }
 };
