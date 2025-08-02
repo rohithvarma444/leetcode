@@ -14,8 +14,8 @@ public:
     int helper(TreeNode* root, int &maxi){
         if(root == nullptr) return 0;
 
-        int left = helper(root->left,maxi);
-        int right = helper(root->right,maxi);
+        int left = max(0,helper(root->left,maxi));
+        int right = max(0,helper(root->right,maxi));
 
         maxi = max(maxi,root->val + left + right);
         return root->val + max(left,right);
