@@ -161,6 +161,7 @@
 | [0041-first-missing-positive](https://github.com/rohithvarma444/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/rohithvarma444/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rohithvarma444/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/rohithvarma444/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/rohithvarma444/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/rohithvarma444/leetcode/tree/master/0066-plus-one) |
@@ -329,6 +330,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rohithvarma444/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/rohithvarma444/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rohithvarma444/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -554,6 +556,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rohithvarma444/leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/rohithvarma444/leetcode/tree/master/0735-asteroid-collision) |
 ## Quickselect
 |  |
