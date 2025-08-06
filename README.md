@@ -154,6 +154,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/rohithvarma444/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohithvarma444/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/rohithvarma444/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/rohithvarma444/leetcode/tree/master/0041-first-missing-positive) |
@@ -365,6 +366,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/rohithvarma444/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rohithvarma444/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/rohithvarma444/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rohithvarma444/leetcode/tree/master/0075-sort-colors) |
