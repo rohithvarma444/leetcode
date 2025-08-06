@@ -605,4 +605,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rohithvarma444/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/rohithvarma444/leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
