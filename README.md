@@ -161,6 +161,7 @@
 | [0063-unique-paths-ii](https://github.com/rohithvarma444/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/rohithvarma444/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/rohithvarma444/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rohithvarma444/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/rohithvarma444/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rohithvarma444/leetcode/tree/master/0090-subsets-ii) |
@@ -222,6 +223,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rohithvarma444/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rohithvarma444/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rohithvarma444/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rohithvarma444/leetcode/tree/master/0169-majority-element) |
@@ -363,6 +365,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rohithvarma444/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/rohithvarma444/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/rohithvarma444/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rohithvarma444/leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/rohithvarma444/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rohithvarma444/leetcode/tree/master/0148-sort-list) |
