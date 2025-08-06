@@ -6,6 +6,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohithvarma444/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rohithvarma444/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/rohithvarma444/leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/rohithvarma444/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rohithvarma444/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rohithvarma444/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/rohithvarma444/leetcode/tree/master/0127-word-ladder) |
@@ -163,6 +164,7 @@
 | [0063-unique-paths-ii](https://github.com/rohithvarma444/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/rohithvarma444/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/rohithvarma444/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rohithvarma444/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rohithvarma444/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/rohithvarma444/leetcode/tree/master/0088-merge-sorted-array) |
@@ -329,6 +331,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/rohithvarma444/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/rohithvarma444/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/rohithvarma444/leetcode/tree/master/0130-surrounded-regions) |
 | [0419-battleships-in-a-board](https://github.com/rohithvarma444/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0854-making-a-large-island](https://github.com/rohithvarma444/leetcode/tree/master/0854-making-a-large-island) |
