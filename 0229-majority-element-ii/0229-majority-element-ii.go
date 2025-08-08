@@ -2,7 +2,7 @@ func majorityElement(nums []int) []int {
     n := len(nums)
     cnt1, cnt2 := 0, 0
     var elem1, elem2 int
-    elem1, elem2 = 0, 1e9 
+    elem1, elem2 = 1e9, 1e9 
 
     for i := 0; i < n; i++ {
         if nums[i] == elem1 {
