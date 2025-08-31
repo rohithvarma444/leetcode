@@ -429,6 +429,7 @@
 | [0078-subsets](https://github.com/rohithvarma444/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rohithvarma444/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rohithvarma444/leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/rohithvarma444/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/rohithvarma444/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/rohithvarma444/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rohithvarma444/leetcode/tree/master/0268-missing-number) |
@@ -562,6 +563,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rohithvarma444/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/rohithvarma444/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rohithvarma444/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/rohithvarma444/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rohithvarma444/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0948-sort-an-array) |
