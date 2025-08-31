@@ -79,6 +79,7 @@
 | [0130-surrounded-regions](https://github.com/rohithvarma444/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/rohithvarma444/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/rohithvarma444/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/rohithvarma444/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rohithvarma444/leetcode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rohithvarma444/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/rohithvarma444/leetcode/tree/master/0322-coin-change) |
@@ -112,6 +113,7 @@
 | [0130-surrounded-regions](https://github.com/rohithvarma444/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/rohithvarma444/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/rohithvarma444/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/rohithvarma444/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rohithvarma444/leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rohithvarma444/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohithvarma444/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/rohithvarma444/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/rohithvarma444/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rohithvarma444/leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/rohithvarma444/leetcode/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/rohithvarma444/leetcode/tree/master/0854-making-a-large-island) |
@@ -195,6 +198,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rohithvarma444/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/rohithvarma444/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rohithvarma444/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/rohithvarma444/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/rohithvarma444/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohithvarma444/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/rohithvarma444/leetcode/tree/master/0216-combination-sum-iii) |
@@ -354,6 +358,7 @@
 | [0064-minimum-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rohithvarma444/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/rohithvarma444/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/rohithvarma444/leetcode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/rohithvarma444/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0854-making-a-large-island](https://github.com/rohithvarma444/leetcode/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/rohithvarma444/leetcode/tree/master/0967-minimum-falling-path-sum) |
