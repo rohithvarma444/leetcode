@@ -2,20 +2,17 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int n = nums.size();
-        int i = 0;
 
-        while(i < n){
-            int correctPos = nums[i];
-
-            if(nums[i] < n && i != correctPos){
-                swap(nums[i],nums[correctPos]);
-            }
-            else i++;
+        int totalSum = 0;
+        for(int i = 0; i <= n; i++){
+            totalSum += i;
         }
 
+        int actualSum = 0;
         for(int i = 0; i < n; i++){
-            if(nums[i] != i) return i;
+            actualSum += nums[i];
         }
-        return n;
+
+        return totalSum - actualSum;
     }
 };
