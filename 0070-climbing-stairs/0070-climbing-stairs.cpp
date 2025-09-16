@@ -1,18 +1,18 @@
 class Solution {
 public:
-    int helper(int index, int n,vector<int> &dp){
-        if(index == n) return 1;
-        if(index > n) return 0;
+    int helper(int idx, vector<int> &dp){
+        if(idx == 0) return 1;
+        if(idx < 0) return 0;
 
-        if(dp[index] != -1) return dp[index];
+        if(dp[idx] != -1 ) return dp[idx];
 
-        int oneStep = helper(index+1,n,dp);
-        int twoStep = helper(index+2,n,dp);
+        int oneStep = helper(idx-1,dp);
+        int twoStep = helper(idx-2,dp);
 
-        return dp[index] = oneStep + twoStep ;
+        return dp[idx] = oneStep + twoStep;
     }
     int climbStairs(int n) {
-        vector<int> dp(n,-1);
-        return helper(0,n,dp);
+        vector<int> dp(n+1, -1);
+        return helper(n,dp);
     }
 };
